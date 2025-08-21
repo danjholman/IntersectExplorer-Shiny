@@ -30,8 +30,9 @@ When filters are active, the selected intersection lines are overlaid in colour.
 - **Faint background.** If no filters are selected, you see all intersections as light grey lines.
 - **Dynamic filtering.** Four panels allow “All/None” toggles for generation, ethnicity, sex, and NS-SEC.
 - **Tooltip.** Hovering over a coloured line shows “Generation,” “Intersection,” and “Age.”
-- **Custom upload.** Upload your own CSV with the same structure to replace the default data.
 - **Minimal dependencies.** Only uses Shiny, ggplot2, plotly, dplyr, and haven.
+- **Outcome selector (PCS / MCS).** Toggle between SF-12 PCS and MCS outcomes — title, axis labels and tooltips update automatically.
+
 
 ## Potential Future Features
 
