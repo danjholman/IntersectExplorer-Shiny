@@ -1,4 +1,4 @@
-# IntersectionExplorer
+# IntersectExplorer
 
 **Author:** Daniel Holman (daniel.holman@sheffield.ac.uk)  
 **Created:** June 2025  
@@ -13,8 +13,7 @@ ChatGPT was used to code the app.
 
 ## Live Demo
 
-You can try the app online here:  
-[IntersectionExplorer on shinyapps.io](https://danielholman.shinyapps.io/app_v8/)
+You can try the app online here: https://danielholman.shinyapps.io/IntersectExplorer/
 
 ## Overview
 
