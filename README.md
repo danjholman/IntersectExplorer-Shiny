@@ -8,7 +8,7 @@
 ---
 
 ## Acknowledgements
-The starting point for this app was the code in the following paper for the interactive plot (Bell et al. 2024): https://doi.org/10.1016/j.socscimed.2024.116955. The code provided with this paper was used to generate the pred2 file which the app uses to generate the plots.
+The starting point for this app was the code in the following paper for the interactive plot (Bell et al. 2024): https://doi.org/10.1016/j.socscimed.2024.116955. The code provided with this paper was used to do the modelling and create your ownn pred2 file which the app uses to generate the plots.
 
 ChatGPT was used to code the app.
 
@@ -43,7 +43,32 @@ When filters are active, the selected intersection lines are overlaid in colour.
 - Extent to cross-sectional and other types of models
 
 ## Instructions
-To be added - see above - use the code here to generate your own pred2 file: https://doi.org/10.1016/j.socscimed.2024.116955
+Use the code here to do the modelling and generate your own pred2 file: https://doi.org/10.1016/j.socscimed.2024.116955
+
+Using the App
+Select Model: Choose between PCS (Physical Component Score) or MCS (Mental Component Score) to view different health outcomes
+Filter Intersections: Use the checkboxes at the bottom to filter by:
+Generation: Z, Y, X, boomer, silent
+Ethnicity: White British, African, Bangladeshi, Caribbean, Indian, Mixed, Other, Other White, Pakistani, White Irish
+Sex: Female, Male
+NS-SEC: Managerial & professional, Intermediate, Routine & manual, No work history
+Color by: Change how lines are colored (by Intersection, Ethnicity, Sex, Generation, or NS-SEC)
+Randomise Colors: Click to generate a new color palette if intersections are hard to distinguish
+Show legend overlay: Toggle the legend on/off for clearer viewing
+Interactive Plot:
+Hover over lines to see detailed information
+Click legend items to toggle visibility
+Double-click legend items to isolate a single trace
+Export plot as PNG using the camera icon
+Understanding the Visualization
+Grey lines: All intersectional strata in the dataset (background)
+Colored lines: Selected intersections based on your filter choices
+Y-axis: Predicted SF-12 score (higher = better health)
+X-axis: Age in years
+Tips
+Start with a single ethnicity, sex, and NS-SEC category to explore specific patterns
+Use "All/None" links to quickly select/deselect all options in each category
+The randomize colors button is useful when viewing many intersections simultaneously
 
 ## Contributing
 Feel free to open issues or pull requests if you find bugs or want to add features (e.g. improved colour palettes, performance optimisations, etc.).
