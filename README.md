@@ -2,6 +2,7 @@
 
 **Author:** Daniel Holman (daniel.holman@sheffield.ac.uk)  
 **Created:** June 2025  
+**Published version** December 2025
 **License:** MIT
 
 ---
