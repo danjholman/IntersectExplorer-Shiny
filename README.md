@@ -45,7 +45,7 @@ When filters are active, the selected intersection lines are overlaid in colour.
 ## Instructions
 Use the code here to do the modelling and generate your own pred2 file: https://doi.org/10.1016/j.socscimed.2024.116955
 
-**Using the App**
+### Using the App
 
 **Select Model**: Choose between PCS (Physical Component Score) or MCS (Mental Component Score) to view different health outcomes
 
