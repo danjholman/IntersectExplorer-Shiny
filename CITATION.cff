@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or adapt this software, please cite it as below."
+type: software
+title: "IntersectExplorer: Shiny app for visualising intersectional trajectories across intersectional strata"
+authors:
+  - family-names: Holman
+    given-names: Daniel
+    email: daniel.holman@sheffield.ac.uk
+    affiliation: "University of Sheffield"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: 2025-12-01
+license: MIT
+repository-code: "https://github.com/danjholman/IntersectExplorer-Shiny"
+url: "https://danielholman.shinyapps.io/IntersectExplorer/"
+abstract: >-
+  An R/Shiny application that displays predicted outcome scores over age,
+  stratified by intersectional strata, for visualising results from
+  longitudinal MAIHDA models.
+keywords:
+  - intersectionality
+  - MAIHDA
+  - health inequalities
+  - R
+  - Shiny
